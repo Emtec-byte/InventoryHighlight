@@ -42,5 +42,3 @@ rune*, dragon*, *potion*
 Avoid turning off "Hover Only" in experimental, this feature does work but has more render calls so may cause performance issues on some machines.
 
 For issues or suggestions, please report through the RuneLite GitHub repository.
-
-Created by Cheese cake
